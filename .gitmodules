@@ -1,0 +1,6 @@
+[submodule "WMNDLS-aka-Volar-firmware"]
+	path = WMNDLS-aka-Volar-firmware
+	url = https://github.com/mit3r/WMNDLS-aka-Volar-firmware
+[submodule "WMNDLS-aka-Volar-frontend"]
+	path = WMNDLS-aka-Volar-frontend
+	url = https://github.com/mit3r/WMNDLS-aka-Volar-frontend
